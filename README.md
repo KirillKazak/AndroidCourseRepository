@@ -1,2 +1,3 @@
 # AndroidCourseRepository
-Курс для обучения AdroidDevelopment
+Курс для обучения AdroidDevelopment 
+Привет! Меня зовут Кирилл
